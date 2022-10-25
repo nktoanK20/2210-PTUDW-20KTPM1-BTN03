@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif; 
+    scroll-behavior: smooth;
+}
+
+#main {
+    background-image: url("https://png.pngtree.com/background/20210714/original/pngtree-blue-carbon-background-with-sport-style-and-golden-light-picture-image_1200848.jpg");
+    color: #ff2;
+}
+
+div {
+    text-align: center;
+}
+
+.title{
+    font-size: 60px;
+}
+
+.image-title{
+    color: blue;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.members{
+    color: red;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+.image{
+
+}
+
+
+
